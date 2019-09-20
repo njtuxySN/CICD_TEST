@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>test cicd</description>
+        <device_type>browser</device_type>
+        <hint>test cicd</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-20 19:14:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f23e89c500040010093e6a52454b47c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CICD_Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CICD_Test" source="x_cicd_test">a91e49c500040010093e6a52454b47e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD_Test">a91e49c500040010093e6a52454b47e5</sys_scope>
+        <sys_update_name>sys_app_application_f23e89c500040010093e6a52454b47c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-20 19:14:10</sys_updated_on>
+        <title>CICD_Test</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
