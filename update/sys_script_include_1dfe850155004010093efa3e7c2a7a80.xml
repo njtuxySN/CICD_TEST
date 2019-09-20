@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_cicd_test.add_by_vm02</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>add_by_vm02</name>
+        <script><![CDATA[var add_by_vm02 = Class.create();
+add_by_vm02.prototype = {
+    initialize: function() {
+    },
+
+    type: 'add_by_vm02'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-20 19:17:30</sys_created_on>
+        <sys_id>1dfe850155004010093efa3e7c2a7a80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>add_by_vm02</sys_name>
+        <sys_package display_value="CICD_Test" source="x_cicd_test">a91e49c500040010093e6a52454b47e5</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="CICD_Test">a91e49c500040010093e6a52454b47e5</sys_scope>
+        <sys_update_name>sys_script_include_1dfe850155004010093efa3e7c2a7a80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-20 19:17:30</sys_updated_on>
+    </sys_script_include>
+</record_update>
